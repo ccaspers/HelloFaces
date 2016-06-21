@@ -15,13 +15,13 @@ For simplicity, all libraries are included as jar-files in the *lib*-Folder.
    - `svn checkout https://github.com/ccaspers/HelloFaces/trunk HelloFaces`
 2. Open Eclipse
 3. File -> New -> Dynamic Web Project
-4. Enter Name
-5. **Uncheck** Use default location, click browse and select the cloned folder
-6. choose a target runtime. (You should configure Tomcat 8.0 or similar)
-7. In **Configuration** click **Modify** and select **JavaServer Faces v2.2 Project" from the 
-dropdown. Press Ok.
-9. Navigate through the wizard by clicking next multiple times
+4. Enter a project name.
+5. **Uncheck** *Use default location*, click *Browse* and select the cloned folder.
+6. Choose a target runtime. (You should configure Tomcat 8.0 or similar)
+7. In the *Configuration*-area click **Modify** and select **JavaServer Faces v2.2 Project" from the 
+dropdown. Press **OK**.
+9. Navigate through the wizard by clicking **Next** multiple times
    - make sure that you dont create a web.xml deployment descriptor 
      and that **Disable Library Configuration** is selected on the last page
    - **Uncheck** *Configure JSF servlet in deployment descriptor*
-12. Click Finish
+12. Click **Finish**

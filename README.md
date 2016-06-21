@@ -25,3 +25,6 @@ dropdown. Press Ok.
      and that **Disable Library Configuration** is selected on the last page
    - **Uncheck** *Configure JSF servlet in deployment descriptor*
 12. Click Finish
+
+Deploy the project, start your container and open e.g. 
+`http://localhost:8080/HelloFaces` in your browser.

@@ -10,7 +10,9 @@ For simplicity, all libraries are included as jar-files in the *lib*-Folder.
 
 # How to use?
 
-1. `git clone https://github.com/ccaspers/HelloFaces.git` or `svn checkout https://github.com/ccaspers/HelloFaces`
+1. Obtain a copy of the project:
+   - `git clone https://github.com/ccaspers/HelloFaces.git` or
+   - `svn checkout https://github.com/ccaspers/HelloFaces/trunk HelloFaces`
 2. Open Eclipse
 3. File -> New -> Dynamic Web Project
 4. Enter Name

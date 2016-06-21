@@ -18,7 +18,8 @@ For simplicity, all libraries are included as jar-files in the *lib*-Folder.
 6. choose a target runtime. (You should configure Tomcat 8.0 or similar)
 7. In **Configuration** click **Modify** and select **JavaServer Faces v2.2 Project" from the 
 dropdown. Press Ok.
-9. Click Next three times
-10. Make sure, that **Disable Library Configuration** is selected on the last page.
-11. **Uncheck** *Configure JSF servlet in deployment descriptor*
+9. Navigate through the wizard by clicking next multiple times
+   - make sure that you dont create a web.xml deployment descriptor 
+     and that **Disable Library Configuration** is selected on the last page
+   - **Uncheck** *Configure JSF servlet in deployment descriptor*
 12. Click Finish

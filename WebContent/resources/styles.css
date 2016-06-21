@@ -1,0 +1,26 @@
+a:link, a:visited, a:hover, a:active {
+    color: black;
+}
+
+.footer a:link, .footer a:visited, .footer a:hover, .footer a:active {
+    color: white;
+}
+
+.header {
+	padding: 10px 5px;
+	width: 100%;
+	font-size: 16px;
+	line-height: 120%;
+	background-color: navy;
+	color: white;
+	margin-bottom:20px;
+}
+
+.footer {
+	margin-top: 20px;
+	size: 10px;
+	padding: 5px;
+	background-color: navy;
+	width: 100%;
+	color: white;
+}

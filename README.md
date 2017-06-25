@@ -18,10 +18,10 @@ For simplicity, all libraries are included as jar-files in the *lib*-Folder.
 4. Enter a project name.
 5. **Uncheck** *Use default location*, click *Browse* and select the cloned folder.
 6. Choose a target runtime. (You should configure Tomcat 8.0 or similar)
-7. In the *Configuration*-area click **Modify** and select **JavaServer Faces v2.2 Project" from the 
-dropdown. Press **OK**.
-9. Navigate through the wizard by clicking **Next** multiple times
-   - make sure that you dont create a web.xml deployment descriptor 
+7. In the *Configuration*-area click *Modify* and select *JavaServer Faces v2.2 Project* from the 
+dropdown. Press *OK*.
+9. Navigate through the wizard by clicking *Next* multiple times
+   - make sure that you do **not** create a web.xml deployment descriptor 
      and that **Disable Library Configuration** is selected on the last page
    - **Uncheck** *Configure JSF servlet in deployment descriptor*
 
